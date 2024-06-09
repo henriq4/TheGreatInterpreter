@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheGreatInterpreter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38e52fc1e6e8053bebd2cd27fac6619e5492f341")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheGreatInterpreter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheGreatInterpreter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
