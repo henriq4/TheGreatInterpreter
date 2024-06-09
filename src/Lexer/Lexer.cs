@@ -1,3 +1,5 @@
+using System.Linq;
+
 namespace TheGreatInterpreter.Lexer;
 
 using SymbolTable;

@@ -1,3 +1,4 @@
+using System;
 using TheGreatInterpreter.Lexer;
 
 namespace TheGreatInterpreter.Errors;

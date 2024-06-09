@@ -1,4 +1,5 @@
-﻿using TheGreatInterpreter;
+﻿using System;
+using TheGreatInterpreter;
 using TheGreatInterpreter.SymbolTable;
 
 var st = new SymbolTable();
